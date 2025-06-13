@@ -1,14 +1,11 @@
 # 🚀 AI Resume Analyzer
 
 A modern, AI-powered resume analysis tool built with React, TypeScript, and Tailwind CSS. Get instant professional feedback on your resume with detailed scoring, skill analysis, and personalized recommendations.
-🚀 Live Demo
+
+Live Demo
 Check out the fully working live version of the AI Resume Analyzer:
 
-🔗 AI Resume Analyzer – Live Demo
-
-Explore the app to upload your resume (PDF, DOCX, TXT, or image), select your target job profile, and receive an AI-powered analysis with scoring, skill gaps, and improvement suggestions.
-
-
+🔗 ![AI Resume Analyzer – Live Demo](https://marvelous-tartufo-2d296c.netlify.app/)
 
 ![AI Resume Analyzer](https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=1200&h=400&fit=crop&crop=center)
 
